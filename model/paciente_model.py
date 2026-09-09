@@ -1,4 +1,4 @@
-# model/paciente_model.py 
+# model/paciente_model.py Eu gosto de pizza e jogar videos games.
 from database.conexao import obter_conexao 
  
 class PacienteModel: 
